@@ -17,7 +17,7 @@ namespace FactoryMethodPatternExample
                 _ => throw new NotSupportedException()
             };
 
-            service.Notify("Factory Method çalışıyor!");
+            service.Notify("Factory Method Notification!");
 
             Console.ReadLine();
         }
