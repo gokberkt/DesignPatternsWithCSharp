@@ -29,6 +29,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryMethodPattern", "Fac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPatternExample", "FactoryMethodPatternExample\FactoryMethodPatternExample.csproj", "{5FE48B0F-782F-4E95-898B-50D11A44E532}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObserverPattern", "ObserverPattern", "{4C703070-35FD-48D7-8849-58920E651A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPatternExample", "ObserverPatternExample\ObserverPatternExample.csproj", "{AFA17081-79BE-46C8-98DD-BEF576282771}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,10 @@ Global
 		{5FE48B0F-782F-4E95-898B-50D11A44E532}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FE48B0F-782F-4E95-898B-50D11A44E532}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FE48B0F-782F-4E95-898B-50D11A44E532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA17081-79BE-46C8-98DD-BEF576282771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA17081-79BE-46C8-98DD-BEF576282771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA17081-79BE-46C8-98DD-BEF576282771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA17081-79BE-46C8-98DD-BEF576282771}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +78,8 @@ Global
 		{DAB3A5D1-E2CB-4E26-ACE5-E3EA9833ACF9} = {BF92C981-2400-444F-A673-BCB7CE147497}
 		{EEBA5A4B-FCBC-465F-940C-40D1DF9D0219} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{5FE48B0F-782F-4E95-898B-50D11A44E532} = {EEBA5A4B-FCBC-465F-940C-40D1DF9D0219}
+		{4C703070-35FD-48D7-8849-58920E651A0A} = {7E8D9B0A-038E-4743-861A-6E3B77910FC1}
+		{AFA17081-79BE-46C8-98DD-BEF576282771} = {4C703070-35FD-48D7-8849-58920E651A0A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0D8A57C2-1F5C-4A93-8DF4-F9BD0825094C}
